@@ -99,7 +99,7 @@ TEAM,AAC,East,Army,ARMY,75,NAVY,,,,,,,
 
 # Coaches
 # Coach format:,Team,Name,Age,Offense,Defense,Recruiting,Training,Off Scheme,Def Scheme,,,,
-COACH,ALA,Nick Saban,40,95,95,95,95,Balanced,Balanced,,,,,,,
+COACH,ALA,Nick Saban,65,95,95,99,95,Balanced,Balanced,,,,,,,
 COACH,ARIZ,Kevin Sumlin,40,75,75,75,75,Pro Style,Conservative,,,,,,,
 COACH,ASU,Herm Edwards,40,65,65,65,65,Spread,Conservative,,,,,,,
 COACH,ARK,Chad Morris,40,80,80,80,80,Pro Style,Conservative,,,,,,,
@@ -169,7 +169,7 @@ COACH,TROY,Neal Brown,40,75,75,75,75,Pro Style,Conservative,,,,,,,
 COACH,TULN,Willie Fritz,40,55,55,55,55,Pro Style,Conservative,,,,,,,
 COACH,TLSA,Philip Montgomery,40,55,55,55,55,Pro Style,Conservative,,,,,,,
 COACH,UCLA,Chip Kelly,40,90,90,90,90,Spread,Conservative,,,,,,,
-COACH,USC,Clay Helton,40,85,85,85,85,Pro Style,Conservative,,,,,,,
+COACH,USC,Lincoln Riley,39,95,85,90,85,Pro Style,Conservative,,,,,,,
 COACH,UTAH,Kyle Whittingham,40,80,80,80,80,Pro Style,Conservative,,,,,,,
 COACH,VAN,Derek Mason,40,70,70,70,70,Pro Style,Conservative,,,,,,,
 COACH,UVA,Bronco Mendenhall,40,70,70,70,70,Pro Style,Conservative,,,,,,,
@@ -180,6 +180,14 @@ COACH,WSU,Mike Leach,40,85,85,85,85,Air Raid,Conservative,,,,,,,
 COACH,WVU,Dana Holgorsen,40,75,75,75,75,Pro Style,Conservative,,,,,,,
 COACH,WIS,Paul Chryst,40,85,85,85,85,Smashmouth,Balanced,,,,,,,
 COACH,WYO,Craig Bohl,40,80,80,80,80,Pro Style,Conservative,,,,,,,
+
+# Offensive Coordinators
+# Coordinator,Team,Name,Age,Playcalling,Position Bonus,Play Bonus,,,,,,,
+OC,USC,Lincoln Riley,39,99,QB,Short Pass,,,,,,,
+
+# Defensive Coordinators
+# Coordinator,Team,Name,Age,Playcalling,Position Bonus,Play Bonus,,,,,,,
+DC,UGA,Will Muschamp,51,99,DL,Inside Run,,,,,,,
 
 # Players
 # Player format:,Team,Position,Name,Year (String),Height,Weight,Stars,,,,,,
