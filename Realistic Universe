@@ -1,4 +1,4 @@
-Abe's FC2 Universe
+Post-2023 Draft Roster
 SEC,East,West,,,,,,,,,,,
 ACC,Atlantic,Coastal,,,,,,,,,,,
 Big Ten,East,West,,,,,,,,,,,
@@ -183,22 +183,7 @@ COACH,WYO,Craig Bohl,40,80,80,80,80,Pro Style,Conservative,,,,,,,
 
 # Players
 # Player format:,Team,Position,Name,Year (String),Height,Weight,Stars,,,,,,
-PLAYER,ALA,CB,Kool-Aid McKinstry,Jr,73,188,8,,
-PLAYER,FSU,DL,Jared Verse,Jr,76,251,8,,
-PLAYER,PSU,OL,Olu Fashanu,Jr,78,321,8,,
-PLAYER,ND,OL,Joe Alt,Jr,79,317,8,,
-PLAYER,BYU,OL,Kingsley Suamataia,Jr,78,325,7,,
 PLAYER,USC,QB,Caleb Williams,Jr,73,215,8,,
-PLAYER,UNC,QB,Drake Maye,Jr,76,220,8,,
-PLAYER,COLO,QB,Shedeur Sanders,Jr,74,215,7,,
-PLAYER,LSU,QB,Jayden Daniels,Jr,75,200,6,,
-PLAYER,ALA,QB,Jalen Milroe,Jr,74,212,6,,
-PLAYER,CLEM,S,Andrew Mukuba,Jr,72,185,8,,
-PLAYER,UGA,TE,Brock Bowers,Jr,76,230,8,,
-PLAYER,OSU,WR,Marvin Harrison Jr.,Jr,76,205,8,,
-PLAYER,TEX,WR,Xavier Worthy,Jr,73,163,7,,
-PLAYER,TEX,QB,Quinn Ewers,So,74,206,7,,
-PLAYER,TEX,QB,Arch Manning,Fr,76,215,5,,
 
 
 END_FILE,,,,,,,,,,,,,
