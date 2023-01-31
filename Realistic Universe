@@ -183,7 +183,7 @@ COACH,WYO,Craig Bohl,40,80,80,80,80,Pro Style,Conservative,,,,,,,
 
 # Players
 # Player format:,Team,Position,Name,Year (String),Height,Weight,Stars,,,,,,
-PLAYER,ALA,CB,Kool-Aid McKinstry,73,188,8,,
+PLAYER,ALA,CB,Kool-Aid McKinstry,Jr,73,188,8,,
 PLAYER,FSU,DL,Jared Verse,Jr,76,251,8,,
 PLAYER,PSU,OL,Olu Fashanu,Jr,78,321,8,,
 PLAYER,ND,OL,Joe Alt,Jr,79,317,8,,
