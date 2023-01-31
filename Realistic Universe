@@ -1,4 +1,4 @@
-Post-2023 Draft Roster Beta 8
+Post-2023 Draft Roster Beta 8.5
 SEC,East,West,,,,,,,,,,,
 ACC,Atlantic,Coastal,,,,,,,,,,,
 Big Ten,East,West,,,,,,,,,,,
@@ -234,10 +234,12 @@ PLAYER,CLEM,S,Andrew Mukuba,Jr,72,185,8,,
 # Georgia [UGA]
 
 COACH,UGA,Kirby Smart,40,90,99,99,95,Balanced,Aggressive,,,,,,,
+OC,UGA,Todd Monken,56,90,QB,Short Pass,,,,,,,
 DC,UGA,Will Muschamp,51,99,DL,Inside Run,,,,,,,
 
-
 PLAYER,UGA,QB,Brock Vandagriff,Jr,75,205,6,,
+
+PLAYER,UGA,WR,Ladd McConkey,RS Jr,72,185,6,,
 
 PLAYER,UGA,TE,Brock Bowers,Jr,76,230,8,,
 
