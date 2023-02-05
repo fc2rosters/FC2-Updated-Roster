@@ -267,7 +267,7 @@ COACH,COLO,Deion Sanders,40,85,85,95,90,Air Raid,Aggressive,,,,,,,
 
 PLAYER,COLO,QB,Shedeur Sanders,Jr,74,215,7,,
 
-PLAYER,COLO,S,Travis Hunter,73,165,6,,
+PLAYER,COLO,S,Travis Hunter,So,73,165,6,,
 
 # -----
 
@@ -363,6 +363,7 @@ PLAYER,OSU,WR,Marvin Harrison Jr.,Jr,76,205,8,,
 PLAYER,OSU,WR,Emeka Egbuka,Jr,73,205,7,,
 
 PLAYER,OSU,OL,Donovan Jackson,Jr,76,300,7,,
+
 PLAYER,OSU,DL,Michael Hall Jr.,Jr,74,290,8,,
 PLAYER,OSU,DL,Jack Sawyer,Jr,76,267,8,,
 PLAYER,OSU,DL,Tyleik Williams,Jr,75,318,8,,
