@@ -194,18 +194,42 @@ OC,ALA,Bill O'Brien,53,99,QB,Short Pass,,,,,,,
 
 PLAYER,ALA,QB,Jalen Milroe,Jr,74,212,6,,
 PLAYER,ALA,QB,Eli Holstein,Fr,76,222,4,,
+PLAYER,ALA,QB,Dylan Lonergan,Fr,74,215,4,,
+PLAYER,ALA,QB,Brayson Hubbard,Fr,74,190,4,,
+
+PLAYER,ALA,RB,Justice Haynes,Fr,71,200,5,,
+
+PLAYER,ALA,WR,Jalen Hale,Fr,73,185,5,,
+PLAYER,ALA,WR,Malik Benson,Fr,73,185,4,,
+PLAYER,ALA,WR,Jaren Hamilton,Fr,73,188,4,,
+PLAYER,ALA,WR,Cole Adams,Fr,70,180,4,,
+
+PLAYER,ALA,TE,Ty Lockwood,Fr,77,225,4,,
 
 PLAYER,ALA,OL,JC Latham,Jr,78,326,8,,
 PLAYER,ALA,OL,Kadyn Proctor,Fr,79,330,5,,
+PLAYER,ALA,OL,Wilkin Formby,Fr,79,295,4,,
+PLAYER,ALA,OL,Olaus Alinen,Fr,78,315,4,,
+PLAYER,ALA,OL,Miles McVay,Fr,78,358,4,,
+PLAYER,ALA,OL,RyQueze McElderry,Fr,75,340,4,,
 
 PLAYER,ALA,DL,Keon Keeley,Fr,77,242,5,,
+PLAYER,ALA,DL,James Smith,Fr,75,310,5,,
+PLAYER,ALA,DL,Qua Russaw,Fr,74,230,5,,
+PLAYER,ALA,DL,Jordan Renaud,Fr,76,245,4,,
+PLAYER,ALA,DL,Hunter Osbourne,Fr,76,260,4,,
+PLAYER,ALA,DL,Edric Hill,Fr,75,290,4,,
 
-PLAYER,ALA,LB,Dallas Turner,Jr,76,240,8,
+PLAYER,ALA,LB,Dallas Turner,Jr,76,240,8,,
+PLAYER,ALA,LB,Justin Jefferson,Jr,73,215,4,,
 
 PLAYER,ALA,CB,Kool-Aid McKinstry,Jr,73,188,8,,
 PLAYER,ALA,CB,Malachi Moore,Jr,72,190,8,,
+PLAYER,ALA,CB,Desmond Ricks,Fr,73,170,5,,
+PLAYER,ALA,CB,Jahlil Hurley,Fr,74,170,4,,
 
 PLAYER,ALA,S,Caleb Downs,Fr,71,197,5,,
+PLAYER,ALA,S,Tony Mitchell,Fr,73,205,4,,
 
 # -----
 
@@ -338,8 +362,7 @@ PLAYER,OSU,RB,TreVeyon Henderson,Jr,70,214,7,,
 PLAYER,OSU,WR,Marvin Harrison Jr.,Jr,76,205,8,,
 PLAYER,OSU,WR,Emeka Egbuka,Jr,73,205,7,,
 
-PLAYER,OSU,OL,Donovan Jackson,76,300,7,,
-
+PLAYER,OSU,OL,Donovan Jackson,Jr,76,300,7,,
 PLAYER,OSU,DL,Michael Hall Jr.,Jr,74,290,8,,
 PLAYER,OSU,DL,Jack Sawyer,Jr,76,267,8,,
 PLAYER,OSU,DL,Tyleik Williams,Jr,75,318,8,,
@@ -352,6 +375,25 @@ PLAYER,OSU,CB,Denzel Burke,Jr,73,190,8,,
 # Oklahoma [OKL]
 
 PLAYER,OKL,QB,Jackson Arnold,Fr,73,205,5,,
+
+PLAYER,OKL,RB,Daylan Smothers,Fr,71,182,4,,
+PLAYER,OKL,RB,Kalib Hicks,Fr,71,195,3,,
+
+PLAYER,OKL,OL,Cayden Green,Fr,77,315,4,,
+PLAYER,OKL,OL,Joshua Bates,Fr,75,205,4,,
+
+PLAYER,OKL,DL,Adepoju Adebawore,Fr,76,240,5,,
+PLAYER,OKL,DL,Derrick LeBlanc,Fr,77,265,4,,
+PLAYER,OKL,DL,Ashton Sanders,Fr,73,270,3,,
+
+PLAYER,OKL,LB,Phil Picciotti,Fr,75,225,3,,
+
+PLAYER,OKL,CB,Jasiah Wagoner,Fr,70,170,4,,
+PLAYER,OKL,CB,Kendel Colby,Fr,71,180,4,,
+
+PLAYER,OKL,S,Peyton Bowen,Fr,72,185,5,,
+PLAYER,OKL,S,Makari Vickers,Fr,73,191,4,,
+PLAYER,OKL,S,Erik McCarty,Fr,74,180,3,,
 
 # -----
 
