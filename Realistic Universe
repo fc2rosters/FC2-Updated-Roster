@@ -242,7 +242,7 @@ PLAYER,CCU,QB,Grayson McCall,Jr,75,216,7,,
 
 # Clemson [CLEM]
 
-COACH,CLEM,Dabo Swinney,40,95,95,95,95,Pro Style,Cover 2,,,,,,,
+COACH,CLEM,Dabo Swinney,53,95,95,95,95,Pro Style,Cover 2,,,,,,,
 
 PLAYER,CLEM,QB,Christopher Vizzina,Fr,75,211,4,,
 
@@ -258,7 +258,7 @@ PLAYER,CLEM,S,Andrew Mukuba,Jr,72,185,8,,
 
 # Colorado [COLO]
 
-COACH,COLO,Deion Sanders,40,85,85,95,90,Air Raid,Aggressive,,,,,,,
+COACH,COLO,Deion Sanders,55,85,85,95,90,Air Raid,Aggressive,,,,,,,
 
 PLAYER,COLO,QB,Shedeur Sanders,Jr,74,215,7,,
 
@@ -276,7 +276,7 @@ PLAYER,FSU,DL,Jared Verse,Jr,76,251,8,,
 
 # Georgia [UGA]
 
-COACH,UGA,Kirby Smart,40,90,99,99,95,Balanced,Aggressive,,,,,,,
+COACH,UGA,Kirby Smart,47,90,99,99,95,Balanced,Aggressive,,,,,,,
 OC,UGA,Todd Monken,56,90,QB,Short Pass,,,,,,,
 DC,UGA,Will Muschamp,51,99,DL,Inside Run,,,,,,,
 
@@ -477,7 +477,7 @@ PLAYER,UCLA,QB,Dante Moore,Fr,75,210,5,,
 
 # USC [USC]
 COACH,USC,Lincoln Riley,39,99,90,95,90,Balanced,Balanced,,,,,,,,
-OC,USC,Lincoln Riley (OC),39,99,QB,Short Pass,,,,,,,
+OC,USC,Josh Henson,47,90,QB,Short Pass,,,,,,,
 
 PLAYER,USC,QB,Caleb Williams,Jr,73,215,8,,
 PLAYER,USC,QB,Malachi Nelson,Fr,75,182,5,,
