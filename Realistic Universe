@@ -1,4 +1,4 @@
-Post-2023 Draft Roster Beta 8.5
+Post-2023 Draft Roster Beta 9
 SEC,East,West,,,,,,,,,,,
 ACC,Atlantic,Coastal,,,,,,,,,,,
 Big Ten,East,West,,,,,,,,,,,
@@ -87,7 +87,7 @@ TEAM,AAC,West,Memphis,MEM,75,CIN,,,,,,,
 TEAM,AAC,West,SMU,SMU,70,USF,,,,,,,
 TEAM,AAC,West,App State,APP,70,TROY,,,,,,,
 TEAM,AAC,West,Navy,NAVY,70,ARMY,,,,,,,
-TEAM,AAC,West,Tulane,TULN,60,ECU,,,,,,,
+TEAM,AAC,West,Tulane,TULN,60,CCU,,,,,,,
 TEAM,AAC,West,Tulsa,TLSA,55,TEM,,,,,,,
 TEAM,AAC,East,UCF,UCF,80,HOU,,,,,,,
 TEAM,AAC,East,Cincinnati,CIN,75,MEM,,,,,,,
@@ -236,7 +236,7 @@ PLAYER,BYU,OL,Kingsley Suamataia,Jr,78,325,8,,
 
 # Coastal Carolina [CCU]
 
-PLAYER,CCU,QB,Grayson McCall,Fr,75,216,7,,
+PLAYER,CCU,QB,Grayson McCall,Jr,75,216,7,,
 
 # -----
 
@@ -427,6 +427,7 @@ PLAYER,ORST,QB,DJ Uiagalelei,Sr,76,235,6,,
 # Penn State [PSU]
 
 PLAYER,PSU,RB,Nicholas Singleton,Jr,72,219,7,,
+
 PLAYER,PSU,OL,Olu Fashanu,Jr,78,321,8,,
 
 # -----
