@@ -1,4 +1,4 @@
-Post-2023 Draft Roster Beta 9.2
+Post-2023 Draft Roster Beta 9.3
 SEC,East,West,,,,,,,,,,,
 ACC,Atlantic,Coastal,,,,,,,,,,,
 Big Ten,East,West,,,,,,,,,,,
@@ -476,8 +476,8 @@ PLAYER,UCLA,QB,Dante Moore,Fr,75,210,5,,
 # -----
 
 # USC [USC]
-
-OC,USC,Lincoln Riley,39,99,QB,Short Pass,,,,,,,
+COACH,USC,Lincoln Riley,39,99,90,95,90,Balanced,Balanced,,,,,,,,
+OC,USC,Lincoln Riley (OC),39,99,QB,Short Pass,,,,,,,
 
 PLAYER,USC,QB,Caleb Williams,Jr,73,215,8,,
 PLAYER,USC,QB,Malachi Nelson,Fr,75,182,5,,
