@@ -94,7 +94,7 @@ TEAM,AAC,East,Cincinnati,CIN,75,MEM,,,,,,,
 TEAM,AAC,East,South Florida,USF,75,SMU,,,,,,,
 TEAM,AAC,East,Troy,TROY,70,APP,,,,,,,
 TEAM,AAC,East,Temple,TEM,70,TLSA,,,,,,,
-TEAM,AAC,East,East Carolina,ECU,65,TULN,,,,,,,
+TEAM,AAC,East,Coastal Carolina,CCU,75,TULN,,,,,,,
 TEAM,AAC,East,Army,ARMY,75,NAVY,,,,,,,
 
 # Coaches
@@ -169,7 +169,6 @@ COACH,TROY,Neal Brown,40,75,75,75,75,Pro Style,Conservative,,,,,,,
 COACH,TULN,Willie Fritz,40,55,55,55,55,Pro Style,Conservative,,,,,,,
 COACH,TLSA,Philip Montgomery,40,55,55,55,55,Pro Style,Conservative,,,,,,,
 COACH,UCLA,Chip Kelly,40,90,90,90,90,Spread,Conservative,,,,,,,
-COACH,USC,Lincoln Riley,39,95,85,90,85,Pro Style,Conservative,,,,,,,
 COACH,UTAH,Kyle Whittingham,40,80,80,80,80,Pro Style,Conservative,,,,,,,
 COACH,VAN,Derek Mason,40,70,70,70,70,Pro Style,Conservative,,,,,,,
 COACH,UVA,Bronco Mendenhall,40,70,70,70,70,Pro Style,Conservative,,,,,,,
@@ -189,8 +188,9 @@ COACH,WYO,Craig Bohl,40,80,80,80,80,Pro Style,Conservative,,,,,,,
 
 # Alabama [ALA]
 
-COACH,ALA,Nick Saban,65,95,95,99,95,Balanced,Balanced,,,,,,,
-OC,ALA,Bill O'Brien,53,99,QB,Short Pass,,,,,,,
+COACH,ALA,Nick Saban,71,95,95,99,95,Balanced,Balanced,,,,,,,
+OC,ALA,Tommy Rees,30,99,QB,Short Pass,,,,,,,
+DC,ALA,Kevin Steele,64,95,LB,Short Pass,,,,,,,
 
 PLAYER,ALA,QB,Jalen Milroe,Jr,74,212,6,,
 PLAYER,ALA,QB,Eli Holstein,Fr,76,222,4,,
@@ -200,40 +200,29 @@ PLAYER,ALA,QB,Brayson Hubbard,Fr,74,190,4,,
 PLAYER,ALA,RB,Justice Haynes,Fr,71,200,5,,
 
 PLAYER,ALA,WR,Jalen Hale,Fr,73,185,5,,
-PLAYER,ALA,WR,Malik Benson,Fr,73,185,4,,
-PLAYER,ALA,WR,Jaren Hamilton,Fr,73,188,4,,
-PLAYER,ALA,WR,Cole Adams,Fr,70,180,4,,
 
 PLAYER,ALA,TE,Ty Lockwood,Fr,77,225,4,,
 
 PLAYER,ALA,OL,JC Latham,Jr,78,326,8,,
 PLAYER,ALA,OL,Kadyn Proctor,Fr,79,330,5,,
-PLAYER,ALA,OL,Wilkin Formby,Fr,79,295,4,,
-PLAYER,ALA,OL,Olaus Alinen,Fr,78,315,4,,
-PLAYER,ALA,OL,Miles McVay,Fr,78,358,4,,
-PLAYER,ALA,OL,RyQueze McElderry,Fr,75,340,4,,
 
 PLAYER,ALA,DL,Keon Keeley,Fr,77,242,5,,
 PLAYER,ALA,DL,James Smith,Fr,75,310,5,,
 PLAYER,ALA,DL,Qua Russaw,Fr,74,230,5,,
-PLAYER,ALA,DL,Jordan Renaud,Fr,76,245,4,,
-PLAYER,ALA,DL,Hunter Osbourne,Fr,76,260,4,,
-PLAYER,ALA,DL,Edric Hill,Fr,75,290,4,,
 
 PLAYER,ALA,LB,Dallas Turner,Jr,76,240,8,,
-PLAYER,ALA,LB,Justin Jefferson,Jr,73,215,4,,
 
 PLAYER,ALA,CB,Kool-Aid McKinstry,Jr,73,188,8,,
 PLAYER,ALA,CB,Malachi Moore,Jr,72,190,8,,
 PLAYER,ALA,CB,Desmond Ricks,Fr,73,170,5,,
-PLAYER,ALA,CB,Jahlil Hurley,Fr,74,170,4,,
 
 PLAYER,ALA,S,Caleb Downs,Fr,71,197,5,,
-PLAYER,ALA,S,Tony Mitchell,Fr,73,205,4,,
 
 # -----
 
 # Arkansas [ARK]
+
+PLAYER,ARK,QB,KJ Jefferson,Jr,75,245,7,,
 
 PLAYER,ARK,RB,Raheim Sanders,Jr,74,227,8,,
 
@@ -242,6 +231,12 @@ PLAYER,ARK,RB,Raheim Sanders,Jr,74,227,8,,
 # Brigham Young [BYU]
 
 PLAYER,BYU,OL,Kingsley Suamataia,Jr,78,325,8,,
+
+# -----
+
+# Coastal Carolina [CCU]
+
+PLAYER,CCU,QB,Grayson McCall,Fr,75,216,7,,
 
 # -----
 
@@ -273,6 +268,8 @@ PLAYER,COLO,S,Travis Hunter,So,73,165,6,,
 
 # Florida State [FSU]
 
+PLAYER,FSU,QB,Jordan Travis,Jr,73,201,7,,
+
 PLAYER,FSU,DL,Jared Verse,Jr,76,251,8,,
 
 # -----
@@ -300,9 +297,22 @@ PLAYER,IOWA,OL,Connor Colby,Jr,78,308,8,,
 
 # -----
 
+# Kansas [KAN]
+
+PLAYER,KAN,QB,Jalon Daniels,Jr,72,215,7,,
+
+# -----
+
 # Kansas State [KSU]
 
+PLAYER,KSU,QB,Will Howard,Jr,77,236,6,,
 PLAYER,KSU,QB,Avery Johnson,Fr,74,175,4,,
+
+# -----
+
+# Kansas State [KSU]
+
+PLAYER,UK,QB,Devon Leary,Jr,73,216,7,,
 
 # -----
 
@@ -311,6 +321,12 @@ PLAYER,KSU,QB,Avery Johnson,Fr,74,175,4,,
 PLAYER,LSU,QB,Jayden Daniels,Jr,75,200,7,,
 
 PLAYER,LSU,DL,Maason Smith,Jr,77,300,8,,
+
+# -----
+
+# Maryland [MD]
+
+PLAYER,MD,QB,Taulia Tagovailoa,Jr,71,200,6,,
 
 # -----
 
@@ -327,6 +343,7 @@ PLAYER,UM,OL,Francis Mauigoa,Fr,78,330,5,,
 PLAYER,MICH,QB,J.J. McCarthy,Jr,75,196,6,,
 
 PLAYER,MICH,RB,Blake Corum,Sr,68,209,8,,
+PLAYER,MICH,RB,Donovan Edwards,Jr,71,190,7,,
 
 # -----
 
@@ -344,6 +361,7 @@ PLAYER,UNC,QB,Drake Maye,Jr,76,220,8,,
 
 # Notre Dame [ND]
 
+PLAYER,ND,QB,Sam Hartman,Jr,73,210,7,,
 PLAYER,ND,QB,Tyler Buchner,Jr,73,215,6,,
 
 PLAYER,ND,OL,Joe Alt,Jr,79,317,8,,
@@ -377,24 +395,17 @@ PLAYER,OSU,CB,Denzel Burke,Jr,73,190,8,,
 
 PLAYER,OKL,QB,Jackson Arnold,Fr,73,205,5,,
 
-PLAYER,OKL,RB,Daylan Smothers,Fr,71,182,4,,
-PLAYER,OKL,RB,Kalib Hicks,Fr,71,195,3,,
-
-PLAYER,OKL,OL,Cayden Green,Fr,77,315,4,,
-PLAYER,OKL,OL,Joshua Bates,Fr,75,205,4,,
-
 PLAYER,OKL,DL,Adepoju Adebawore,Fr,76,240,5,,
-PLAYER,OKL,DL,Derrick LeBlanc,Fr,77,265,4,,
-PLAYER,OKL,DL,Ashton Sanders,Fr,73,270,3,,
-
-PLAYER,OKL,LB,Phil Picciotti,Fr,75,225,3,,
-
-PLAYER,OKL,CB,Jasiah Wagoner,Fr,70,170,4,,
-PLAYER,OKL,CB,Kendel Colby,Fr,71,180,4,,
 
 PLAYER,OKL,S,Peyton Bowen,Fr,72,185,5,,
-PLAYER,OKL,S,Makari Vickers,Fr,73,191,4,,
-PLAYER,OKL,S,Erik McCarty,Fr,74,180,3,,
+
+# -----
+
+# Ole Miss [MISS]
+
+PLAYER,QB,MISS,Jaxson Dart,So,75,220,7,,
+
+PLAYER,RB,MISS,Quinshon Judkins,So,71,210,8,,
 
 # -----
 
@@ -415,6 +426,7 @@ PLAYER,ORST,QB,DJ Uiagalelei,Sr,76,235,6,,
 
 # Penn State [PSU]
 
+PLAYER,PSU,RB,Nicholas Singleton,Jr,72,219,7,,
 PLAYER,PSU,OL,Olu Fashanu,Jr,78,321,8,,
 
 # -----
@@ -479,13 +491,15 @@ PLAYER,USC,S,Calen Bullock,Jr,75,180,8,,
 
 # Utah [UTAH]
 
+PLAYER,UTAH,QB,Cameron Rising,74,220,7,,
+
 PLAYER,UTAH,S,Cole Bishop,Jr,74,206,8,,
 
 # -----
 
 # Washington [WASH]
 
-PLAYER,WASH,QB,Michael Penix Jr.,Sr,75,214,6,,
+PLAYER,WASH,QB,Michael Penix Jr.,Sr,75,214,7,,
 PLAYER,WASH,QB,Sam Huard,Jr,74,194,6,,
 
 PLAYER,WASH,DL,Zion Tupuola-Fetui,Jr,76,241,8,,
@@ -500,7 +514,7 @@ PLAYER,WSU,QB,Cameron Ward,Jr,74,220,6,,
 
 # Wisconsin [WIS]
 
-PLAYER,WIS,RB,Braelon Allen,Jr,74,235,7,,
+PLAYER,WIS,RB,Braelon Allen,Jr,74,235,8,,
 
 # -----
 
